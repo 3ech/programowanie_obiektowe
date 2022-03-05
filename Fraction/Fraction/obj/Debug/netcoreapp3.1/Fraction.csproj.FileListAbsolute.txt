@@ -1,0 +1,14 @@
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fraction.csproj.AssemblyReference.cache
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fraction.AssemblyInfoInputs.cache
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fraction.AssemblyInfo.cs
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fraction.csproj.CoreCompileInputs.cache
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fraction.exe
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fraction.deps.json
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fraction.runtimeconfig.json
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fraction.runtimeconfig.dev.json
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fraction.dll
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fraction.pdb
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fraction.dll
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fraction.pdb
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fraction.genruntimeconfig.cache
