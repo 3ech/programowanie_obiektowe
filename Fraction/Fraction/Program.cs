@@ -57,7 +57,7 @@ namespace Fraction
         {
             //return base.ToString();
 
-            return Licznik + " / " + mianownik;
+            return Licznik + " / " + Mianownik;
         }
     }
 }
