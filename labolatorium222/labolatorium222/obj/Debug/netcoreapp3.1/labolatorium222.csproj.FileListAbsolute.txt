@@ -1,0 +1,5 @@
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\labolatorium222\labolatorium222\obj\Debug\netcoreapp3.1\labolatorium222.csproj.AssemblyReference.cache
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\labolatorium222\labolatorium222\obj\Debug\netcoreapp3.1\labolatorium222.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\labolatorium222\labolatorium222\obj\Debug\netcoreapp3.1\labolatorium222.AssemblyInfoInputs.cache
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\labolatorium222\labolatorium222\obj\Debug\netcoreapp3.1\labolatorium222.AssemblyInfo.cs
+D:\Users\piotr.czech\source\repos\programowanie_obiektowe\labolatorium222\labolatorium222\obj\Debug\netcoreapp3.1\labolatorium222.csproj.CoreCompileInputs.cache
